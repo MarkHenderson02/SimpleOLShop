@@ -1,0 +1,12 @@
+G:\52020007\Pemg Visual\Modul 3\Simple Online Shop Programming\obj\Debug\Simple Online Shop Programming.vbproj.AssemblyReference.cache
+G:\52020007\Pemg Visual\Modul 3\Simple Online Shop Programming\obj\Debug\Simple_Online_Shop_Programming.Form1.resources
+G:\52020007\Pemg Visual\Modul 3\Simple Online Shop Programming\obj\Debug\Simple_Online_Shop_Programming.Resources.resources
+G:\52020007\Pemg Visual\Modul 3\Simple Online Shop Programming\obj\Debug\Simple Online Shop Programming.vbproj.GenerateResource.cache
+G:\52020007\Pemg Visual\Modul 3\Simple Online Shop Programming\obj\Debug\Simple Online Shop Programming.vbproj.CoreCompileInputs.cache
+G:\52020007\Pemg Visual\Modul 3\Simple Online Shop Programming\bin\Debug\Simple Online Shop Programming.exe.config
+G:\52020007\Pemg Visual\Modul 3\Simple Online Shop Programming\bin\Debug\Simple Online Shop Programming.exe
+G:\52020007\Pemg Visual\Modul 3\Simple Online Shop Programming\bin\Debug\Simple Online Shop Programming.pdb
+G:\52020007\Pemg Visual\Modul 3\Simple Online Shop Programming\bin\Debug\Simple Online Shop Programming.xml
+G:\52020007\Pemg Visual\Modul 3\Simple Online Shop Programming\obj\Debug\Simple Online Shop Programming.exe
+G:\52020007\Pemg Visual\Modul 3\Simple Online Shop Programming\obj\Debug\Simple Online Shop Programming.xml
+G:\52020007\Pemg Visual\Modul 3\Simple Online Shop Programming\obj\Debug\Simple Online Shop Programming.pdb
